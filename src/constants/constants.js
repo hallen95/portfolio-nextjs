@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: "Netflix Clone",
+    description: "This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. I have built the following pages within this application: sign in, sign up, browse & lastly the homepage. There are four different pages, some using protected routes with auth listeners. ",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['Firebase', 'Styled components', 'React', 'Node'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Started my journey, with Java/C++', },
+  { year: 2020, text: 'Learning the basis of computer science', },
+  { year: 2021, text: 'Studying ReactJs in CoderHouse', },
+  { year: 2021, text: 'Starting to learn Javascript Professionally in Platzi', },
+  { year: 2021, text: 'Working with my first team in Alkemy Labs', },
 ];
