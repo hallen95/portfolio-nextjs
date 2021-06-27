@@ -4,8 +4,8 @@ export const projects = [
     description: "This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. I have built the following pages within this application: sign in, sign up, browse & lastly the homepage. There are four different pages, some using protected routes with auth listeners. ",
       image: '/images/1.png',
       tags: ['Firebase', 'Styled components', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/hallen95/netflix',
+    visit: 'https://clone-netflix-clone.herokuapp.com/',
     id: 0,
   },
   {
