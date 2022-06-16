@@ -38,9 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: 'Started my journey, with Java/C++', },
-  { year: 2020, text: 'Learning the basis of computer science', },
-  { year: 2021, text: 'Studying ReactJs in CoderHouse', },
+  { year: 2022, text: 'I have developed many professional projects as a freelance', },
+  { year: 2021, text: 'I was hired by a digital company as a Frontend Developer', },
   { year: 2021, text: 'Starting to learn Javascript Professionally in Platzi', },
-  { year: 2021, text: 'Working with my first team in Alkemy Labs', },
+  { year: 2021, text: 'Studying ReactJs in CoderHouse', },
+  { year: 2020, text: 'Learning the basis of computer science', },
+  { year: 2020, text: 'Started my journey, with Java/C++', },
 ];
